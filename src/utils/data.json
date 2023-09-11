@@ -1,0 +1,50 @@
+{
+    "Municipios": [
+      {
+        "Nombre": "Camagüey",
+        "Farmacias": [
+          {
+            "Nombre": "Farmacia A",
+            "Direccion": "Calle 1, Camagüey"
+          },
+          {
+            "Nombre": "Farmacia B",
+            "Direccion": "Calle 2, Camagüey"
+          },
+          {
+            "Nombre": "Farmacia C",
+            "Direccion": "Calle 3, Camagüey"
+          },
+          {
+            "Nombre": "Farmacia D",
+            "Direccion": "Calle 4, Camagüey"
+          },
+          {
+            "Nombre": "Farmacia E",
+            "Direccion": "Calle 5, Camagüey"
+          },
+          {
+            "Nombre": "Farmacia F",
+            "Direccion": "Calle 6, Camagüey"
+          },
+          {
+            "Nombre": "Farmacia G",
+            "Direccion": "Calle 7, Camagüey"
+          },
+          {
+            "Nombre": "Farmacia H",
+            "Direccion": "Calle 8, Camagüey"
+          },
+          {
+            "Nombre": "Farmacia I",
+            "Direccion": "Calle 9, Camagüey"
+          },
+          {
+            "Nombre": "Farmacia J",
+            "Direccion": "Calle 10, Camagüey"
+          }
+        ]
+      }
+    ]
+  }
+  
